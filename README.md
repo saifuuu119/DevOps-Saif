@@ -8,5 +8,4 @@
 - 💬 Ask me about AWS, Terraform, GitHub Actions, or Prometheus
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sayed-saif-manzoor/)
 
-> “Automate the toil, elevate the impact.”
 
